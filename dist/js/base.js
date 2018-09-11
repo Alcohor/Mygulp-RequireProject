@@ -1,0 +1,1 @@
+define(["jquery"],function(a){return test={myFunction:function(){console.log(1),console.log(1),console.log(a(".test"))}}});

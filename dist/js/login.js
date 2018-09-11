@@ -1,0 +1,1 @@
+require(["config"],function(){require(["jquery","base","animate"],function(a,b,c){a(".test").css("backgroundColor","green"),console.log(b.myFunction),b.myFunction();var b=document.getElementsByClassName("test")[0];c(b,{width:400})})});
